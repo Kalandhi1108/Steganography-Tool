@@ -1,4 +1,4 @@
-DATE: 08.09.2025
+<img width="1587" height="261" alt="image" src="https://github.com/user-attachments/assets/f4c97f68-a24d-4cc3-9a49-3808595a6a36" />DATE: 08.09.2025
 PROJECT:Steganography Tool for Image/File Hiding
           
  Objective: Hide text or files inside images using steganography.
@@ -16,6 +16,12 @@ PROJECT:Steganography Tool for Image/File Hiding
  
  e.Support image formats like PNG, BMP.
  
- Deliverables: GUI tool for embedding and extracting data from images
+ Deliverables: GUI tool for embedding and extracting data from images<img width="1280" height="964" alt="steganography_flowchart" src="https://github.com/user-attachments/assets/39e634c4-b047-43ea-9894-c6c2ff3371dd" />
+[Steganography Tool for Image.pdf](https://github.com/user-attachments/files/22215008/Steganography.Tool.for.Image.pdf)
+
+
+
+
+
 
 
