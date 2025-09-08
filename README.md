@@ -1,4 +1,4 @@
-<img width="1587" height="261" alt="image" src="https://github.com/user-attachments/assets/f4c97f68-a24d-4cc3-9a49-3808595a6a36" />DATE: 08.09.2025
+DATE: 08.09.2025
 PROJECT:Steganography Tool for Image/File Hiding
           
  Objective: Hide text or files inside images using steganography.
