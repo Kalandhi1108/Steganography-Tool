@@ -1,0 +1,5 @@
+{
+  "name": "Steganography Studio",
+  "description": "A powerful and secure steganography tool to hide text or files within images using LSB embedding, AES encryption, and password-based randomization.",
+  "requestFramePermissions": []
+}
